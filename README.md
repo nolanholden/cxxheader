@@ -1,11 +1,9 @@
-### A script to generate a new C++ header file
-
-#### Usage
+## Usage:
 ```
 $ python cxxheader.py -o protobuf.h -n google proto stuff
 ```
 
-Outputs a file called "protobuf.h" with contents:
+Outputs a file called `protobuf.h` with the following contents:
 
 ```c++
 #ifndef _GOOGLE_PROTO_STUFF_PROTOBUF_H_
