@@ -19,6 +19,6 @@ namespace stuff {
 } // namespace proto
 } // namespace google
 
-#endif _GOOGLE_PROTO_STUFF_PROTOBUF_H_
+#endif // _GOOGLE_PROTO_STUFF_PROTOBUF_H_
 
 ```
